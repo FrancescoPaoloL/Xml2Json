@@ -17,6 +17,14 @@ To use the script, provide an XML string or file, and run the script to convert 
 ```
 Just Python 3.6.9
 ```
+
+## Test coverage
+| Name           | Stmts | Miss | Branch | BrPart | Cover |
+|----------------|-------|------|--------|--------|-------|
+| xml2Json.py    |   27  |   6  |   12   |   2    |  79%  |
+| xml2Json_test.py |  15  |   1  |   4    |   1    |  89%  |
+| TOTAL          |   42  |   7  |   16   |   3    |  83%  |
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
